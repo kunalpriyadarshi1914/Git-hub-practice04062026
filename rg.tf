@@ -14,3 +14,7 @@ resource"azurerm_resource_group""rgprac2"{
   name="rg3333"
   location="eastus"
   }
+resource"azurerm_resource_group""rgprac4"{
+  name="rg4444"
+  location="westus"
+  }
