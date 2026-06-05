@@ -10,3 +10,7 @@ resource"azurerm_resource_group""rgprac2"{
   name="rg2222"
   location="central india"
   }
+  resource"azurerm_resource_group""rgprac3"{
+  name="rg3333"
+  location="eastus"
+  }
